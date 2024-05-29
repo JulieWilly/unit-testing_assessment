@@ -1,0 +1,19 @@
+{
+  "name": "assessment_tests",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.24.6",
+    "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
